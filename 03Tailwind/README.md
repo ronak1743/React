@@ -1,16 +1,20 @@
-# React + Vite
+# Tailwind:
+- Tailwind is freamwork of css which is easy to made frontend css.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<br>
 
-Currently, two official plugins are available:
+# How to install it:
+- you can go to web of tailwind for it's steps
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<br>
 
-## React Compiler
+# How to use it:
+- You can add propertys in terms of class to your html element.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# What is Component in React:
+- We are devide our web in some components which like:buttos,cards,navbar,etc..
+- Then we can reuse that all components many times
+- In simple word we make saprate react file for all uniq components and then we reuse them.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# What is Props in React:
+- Props means in simple we are passing a object to that js function and use that all values of that object in our react componet.
