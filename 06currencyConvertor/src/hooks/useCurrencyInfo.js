@@ -7,7 +7,7 @@ function useCurrencyInfo(currency){
     const year = today.getFullYear();
     const month = String(today.getMonth() + 1).padStart(2, '0'); 
     const day = String(today.getDate()).padStart(2, '0');
-    console.log(today.getMonth()+1);
+    
     const formattedDate = `${year}-${month}-${day}`;
     const [data, setData] = useState({})
     useEffect(() => {
